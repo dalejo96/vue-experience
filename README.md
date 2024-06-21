@@ -2,4 +2,8 @@
 
 This is my journey and experience with the [Vue.js](https://vuejs.org/) framework.
 
-Every folder contains an application, from the simple CounterApp to ...who knows for now.
+Every folder contains an application, from the simple CounterApp to ...
+
+## Folders - Projects
+
+- *CounterApp*: a basic JS counter with two buttons one for subtraction and the other to add 1 to the general count, includes an Options API approach to solve the problem.
