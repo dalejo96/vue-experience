@@ -8,7 +8,9 @@ Every folder contains an application, from the simple CounterApp to ...
 
 - *CounterApp*: a basic JS counter with two buttons one for subtraction and the other to add 1 to the general count, includes an Options API vs Composition API approach to solve the problem.
 
-- *NotesApp*: a JS notes application with a modal, a textarea and some buttons, here you can see some vue directives, iteratively rendering DOM elements and some error handling.
+- *NotesApp*: a JS notes application with a modal, a textarea and some buttons, here you can see some vue directives, state (ref) and iteratively rendering DOM elements and some error handling.
+
+- *QuizApp*: a JS quiz application with a predefined JSON data, with all the relevant information. Listeners for watching state changes (watch), create components for isolation and reusability, routing, emitting events (defineEmits) and Vue animations (CSS and JS with gsap).
 
 ## Development
 
