@@ -12,7 +12,7 @@ Every folder contains an application, from the simple CounterApp to ...
 
 - *QuizApp*: a JS quiz application with a predefined JSON data, with all the relevant information. Listeners for watching state changes (watch), create components for isolation and reusability, routing, emitting events (defineEmits) and Vue animations (CSS and JS with gsap).
 
-- *ShowApp*: a JS basic application that fetches data from an external api. You can check how to handle HTTP request, usage of Suspense wrapper, <slot>, slot with ids and KeepAlive.
+- *ShowApp*: A JS basic application that fetches data from an external API. You can check how to handle HTTP requests, usage of Suspense wrapper, <slot>, slot with ids, and KeepAlive.
 
 ## Development
 
