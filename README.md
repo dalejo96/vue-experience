@@ -14,6 +14,8 @@ Every folder contains an application, from the simple CounterApp to ...
 
 - *ShowApp*: A JS basic application that fetches data from an external API. You can check how to handle HTTP requests, usage of Suspense wrapper, <slot>, slot with ids, and KeepAlive.
 
+- *InviteApp*: A TS basic application shows the usage of types with State, Functions, Props, Computed, and some types reusability.
+
 ## Development
 
 If you want to check any project just go to the respective folder and run:
